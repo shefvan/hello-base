@@ -6,3 +6,8 @@ document base guild task setup and learnings
 joined base guild and reviewed available tasks
 
 goal is to complete tasks through public learning
+
+-----------------
+base guild requires public github commits
+
+private repositories are not counted
