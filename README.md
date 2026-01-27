@@ -11,3 +11,6 @@ goal is to complete tasks through public learning
 base guild requires public github commits
 
 private repositories are not counted
+created a public repository for task verification
+
+focused on clean commit history
