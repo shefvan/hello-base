@@ -182,6 +182,9 @@ clean repos invite collaboration
 
 documentation helps newcomers
 
+focus on learning not farming
+
+long term view matters
 
 
 
