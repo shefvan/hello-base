@@ -27,6 +27,11 @@ commit email should match github account
 
 public email improves detection reliability
 
+
+commits can be frequent but should be meaningful
+
+small changes are acceptable
+
 clear commit titles help maintain readability
 
 titles should describe the change briefly
