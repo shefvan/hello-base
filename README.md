@@ -142,6 +142,10 @@ folders improve navigation
 
 names should be clear
 
+simple language works best
+
+avoid unnecessary jargon
+
 
 
 
