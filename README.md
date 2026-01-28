@@ -111,5 +111,13 @@ tasks guide learning direction
 
 clear objectives help focus
 
+public repo
+
+recent commits
+
+correct account connected
+
+
+
 
 
