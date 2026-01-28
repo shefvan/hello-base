@@ -74,4 +74,10 @@ contracts define state and behavior
 
 functions modify or read state
 
+common types include uint, address, bool
+
+choosing correct types matters
+
+
+
 
