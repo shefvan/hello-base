@@ -90,6 +90,11 @@ simplest contract structure
 
 good starting point for learning
 
+------------------------
+compile, deploy, verify
+
+use testnet first
+
 
 
 
