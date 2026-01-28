@@ -150,6 +150,10 @@ markdown is lightweight
 
 easy to read and write
 
+official docs are primary source
+
+community guides are helpful
+
 
 
 
