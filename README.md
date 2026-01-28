@@ -134,6 +134,10 @@ public notes help others
 
 accountability increases
 
+visible proof of work
+
+easier collaboration
+
 
 
 
