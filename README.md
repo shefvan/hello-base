@@ -50,4 +50,8 @@ base is an ethereum layer 2
 
 focused on scalability and builders
 
+base settles on ethereum
+
+low fees improve developer experience
+
 
