@@ -42,4 +42,8 @@ guild sync may take a few minutes
 
 refreshing after some time helps
 
+public work matters more than speed
+
+consistency is key
+
 
