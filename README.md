@@ -19,3 +19,6 @@ public visibility is mandatory for guild sync
 verified repo is accessible without login
 
 ---------------------------
+verification may not update instantly
+
+patience and retry are sometimes required
