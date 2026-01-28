@@ -66,4 +66,8 @@ test tokens are for experimentation
 
 not real value assets
 
+focus on basics before advanced patterns
+
+readability over complexity
+
 
