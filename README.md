@@ -22,3 +22,7 @@ verified repo is accessible without login
 verification may not update instantly
 
 patience and retry are sometimes required
+
+commit email should match github account
+
+public email improves detection reliability
