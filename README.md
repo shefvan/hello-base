@@ -166,6 +166,10 @@ repetition increases speed
 
 clarity reduces mistakes
 
+tasks completed so far documented
+
+next steps planned
+
 
 
 
