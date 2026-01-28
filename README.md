@@ -154,6 +154,12 @@ official docs are primary source
 
 community guides are helpful
 
+adjust goals as needed
+
+stay flexible
+
+
+
 
 
 
