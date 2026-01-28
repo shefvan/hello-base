@@ -130,6 +130,10 @@ regular commits matter
 
 learning compounds over time
 
+public notes help others
+
+accountability increases
+
 
 
 
