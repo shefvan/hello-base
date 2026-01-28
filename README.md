@@ -194,6 +194,10 @@ mini apps simplify onchain UX
 
 builder opportunity area
 
+tools reduce friction
+
+choose tools wisely
+
 
 
 
