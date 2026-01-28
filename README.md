@@ -146,6 +146,10 @@ simple language works best
 
 avoid unnecessary jargon
 
+markdown is lightweight
+
+easy to read and write
+
 
 
 
