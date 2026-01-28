@@ -102,5 +102,9 @@ gas optimization improves efficiency
 
 unnecessary storage should be avoided
 
+small mistakes are common
+
+logs help debugging
+
 
 
