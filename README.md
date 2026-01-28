@@ -46,4 +46,8 @@ public work matters more than speed
 
 consistency is key
 
+base is an ethereum layer 2
+
+focused on scalability and builders
+
 
