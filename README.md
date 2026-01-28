@@ -54,4 +54,8 @@ base settles on ethereum
 
 low fees improve developer experience
 
+used for testing contracts
+
+faucets provide test tokens
+
 
