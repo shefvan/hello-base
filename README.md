@@ -190,6 +190,10 @@ feedback improves quality
 
 iteration is normal
 
+mini apps simplify onchain UX
+
+builder opportunity area
+
 
 
 
