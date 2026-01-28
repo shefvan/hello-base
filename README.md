@@ -162,6 +162,10 @@ errors are learning opportunities
 
 patience is required
 
+repetition increases speed
+
+clarity reduces mistakes
+
 
 
 
