@@ -186,6 +186,10 @@ focus on learning not farming
 
 long term view matters
 
+feedback improves quality
+
+iteration is normal
+
 
 
 
