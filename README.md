@@ -94,7 +94,9 @@ good starting point for learning
 compile, deploy, verify
 
 use testnet first
+remix is browser based
 
+useful for quick experiments
 
 
 
