@@ -158,6 +158,10 @@ adjust goals as needed
 
 stay flexible
 
+errors are learning opportunities
+
+patience is required
+
 
 
 
