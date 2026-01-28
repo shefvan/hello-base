@@ -126,6 +126,10 @@ steady progress achieved
 
 more tasks ahead
 
+regular commits matter
+
+learning compounds over time
+
 
 
 
