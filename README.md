@@ -78,6 +78,10 @@ common types include uint, address, bool
 
 choosing correct types matters
 
+public, external, internal, private
+
+visibility affects security
+
 
 
 
