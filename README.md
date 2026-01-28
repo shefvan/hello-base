@@ -98,5 +98,9 @@ remix is browser based
 
 useful for quick experiments
 
+gas optimization improves efficiency
+
+unnecessary storage should be avoided
+
 
 
