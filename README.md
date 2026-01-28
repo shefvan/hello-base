@@ -26,3 +26,9 @@ patience and retry are sometimes required
 commit email should match github account
 
 public email improves detection reliability
+
+clear commit titles help maintain readability
+
+titles should describe the change briefly
+
+------------------------
