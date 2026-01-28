@@ -62,4 +62,8 @@ wallet needs base network added
 
 testnet and mainnet differ
 
+test tokens are for experimentation
+
+not real value assets
+
 
