@@ -178,6 +178,10 @@ commits should explain intent
 
 avoid vague messages
 
+clean repos invite collaboration
+
+documentation helps newcomers
+
 
 
 
