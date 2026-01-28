@@ -138,6 +138,9 @@ visible proof of work
 
 easier collaboration
 
+folders improve navigation
+
+names should be clear
 
 
 
