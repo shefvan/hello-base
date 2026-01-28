@@ -82,6 +82,10 @@ public, external, internal, private
 
 visibility affects security
 
+understanding fundamentals reduces bugs
+
+testing is essential
+
 
 
 
