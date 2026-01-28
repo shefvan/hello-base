@@ -58,4 +58,8 @@ used for testing contracts
 
 faucets provide test tokens
 
+wallet needs base network added
+
+testnet and mainnet differ
+
 
