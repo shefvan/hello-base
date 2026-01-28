@@ -170,6 +170,10 @@ tasks completed so far documented
 
 next steps planned
 
+break tasks into small steps
+
+avoid burnout
+
 
 
 
