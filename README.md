@@ -14,3 +14,8 @@ private repositories are not counted
 created a public repository for task verification
 
 focused on clean commit history
+public visibility is mandatory for guild sync
+
+verified repo is accessible without login
+
+---------------------------
