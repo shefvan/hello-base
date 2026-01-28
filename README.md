@@ -117,6 +117,11 @@ recent commits
 
 correct account connected
 
+---------------
+retries are normal
+
+avoid rushing changes
+
 
 
 
