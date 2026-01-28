@@ -70,4 +70,8 @@ focus on basics before advanced patterns
 
 readability over complexity
 
+contracts define state and behavior
+
+functions modify or read state
+
 
