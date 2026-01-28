@@ -37,3 +37,9 @@ clear commit titles help maintain readability
 titles should describe the change briefly
 
 ------------------------
+
+guild sync may take a few minutes
+
+refreshing after some time helps
+
+
