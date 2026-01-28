@@ -174,6 +174,10 @@ break tasks into small steps
 
 avoid burnout
 
+commits should explain intent
+
+avoid vague messages
+
 
 
 
