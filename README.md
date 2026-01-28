@@ -86,6 +86,10 @@ understanding fundamentals reduces bugs
 
 testing is essential
 
+simplest contract structure
+
+good starting point for learning
+
 
 
 
