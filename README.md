@@ -198,6 +198,10 @@ tools reduce friction
 
 choose tools wisely
 
+prioritize impactful tasks
+
+track progress
+
 
 
 
