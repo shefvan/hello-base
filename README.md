@@ -201,7 +201,11 @@ choose tools wisely
 prioritize impactful tasks
 
 track progress
+----------------------
 
+understanding improved significantly
+
+confidence increased
 
 
 
