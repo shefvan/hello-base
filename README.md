@@ -107,4 +107,9 @@ small mistakes are common
 logs help debugging
 
 
+tasks guide learning direction
+
+clear objectives help focus
+
+
 
