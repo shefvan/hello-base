@@ -219,6 +219,9 @@ added a note on maintaining consistency while completing guild tasks.
 
 documented the importance of small incremental improvements.
 
+added a reflection on patience during verification delays.
+
+
 
 
 
