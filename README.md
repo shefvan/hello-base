@@ -231,6 +231,11 @@ documented benefits of learning and building in public.
 
 added a short note on discipline while completing long tasks.
 
+------------------------------
+
+summarized progress checkpoint after completing multiple commits.
+
+
 
 
 
