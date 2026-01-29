@@ -249,6 +249,9 @@ documented improvements made to the overall workflow.
 
 added a note on managing time while repeating similar tasks.
 
+summarized overall progress made so far in the guild.
+
+
 
 
 
