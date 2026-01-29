@@ -227,6 +227,9 @@ summarized workflow learnings from repeated commit cycles.
 
 added a note on keeping a clean and readable commit history.
 
+documented benefits of learning and building in public.
+
+
 
 
 
