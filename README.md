@@ -221,6 +221,9 @@ documented the importance of small incremental improvements.
 
 added a reflection on patience during verification delays.
 
+noted why avoiding rushed commits improves learning quality.
+
+
 
 
 
