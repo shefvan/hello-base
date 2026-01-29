@@ -239,6 +239,9 @@ added a note on developing a long-term builder mindset.
 
 documented the value of focusing on learning rather than speed.
 
+added a note on making daily small improvements.
+
+
 
 
 
