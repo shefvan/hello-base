@@ -256,6 +256,9 @@ summarized overall progress made so far in the guild.
 
 added a reminder about staying consistent till task completion.
 
+documented a mid-phase reflection of the learning process.
+
+
 
 
 
