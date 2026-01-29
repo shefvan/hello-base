@@ -235,6 +235,9 @@ added a short note on discipline while completing long tasks.
 
 summarized progress checkpoint after completing multiple commits.
 
+added a note on developing a long-term builder mindset.
+
+
 
 
 
