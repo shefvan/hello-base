@@ -241,6 +241,9 @@ documented the value of focusing on learning rather than speed.
 
 added a note on making daily small improvements.
 
+summarized productivity habits formed during this task.
+
+
 
 
 
