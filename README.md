@@ -247,6 +247,9 @@ added a note on prioritizing tasks effectively.
 
 documented improvements made to the overall workflow.
 
+added a note on managing time while repeating similar tasks.
+
+
 
 
 
