@@ -211,6 +211,11 @@ confidence increased
 
 momentum maintained
 
+## base guild learning log
+-----------------------------
+continued documenting progress in the base guild learning journey.
+
+
 
 
 
