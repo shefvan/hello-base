@@ -252,6 +252,12 @@ added a note on managing time while repeating similar tasks.
 summarized overall progress made so far in the guild.
 
 
+----------
+
+added a reminder about staying consistent till task completion.
+
+
+
 
 
 
