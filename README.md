@@ -229,6 +229,9 @@ added a note on keeping a clean and readable commit history.
 
 documented benefits of learning and building in public.
 
+added a short note on discipline while completing long tasks.
+
+
 
 
 
