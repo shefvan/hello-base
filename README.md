@@ -215,6 +215,9 @@ momentum maintained
 -----------------------------
 continued documenting progress in the base guild learning journey.
 
+added a note on maintaining consistency while completing guild tasks.
+
+
 
 
 
