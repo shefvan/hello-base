@@ -276,6 +276,12 @@ added a note on resilience while facing repeated issues.
 
 documented the benefits of iteration and repetition.
 
+added a note on reducing mistakes through repetition.
+
+
+
+
+
 
 
 
