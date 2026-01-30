@@ -321,6 +321,11 @@ documented the complete base guild learning experience.
 
 added a note on what worked well throughout the process.
 
+----------
+
+summarized challenges faced and how they were handled.
+
+
 
 
 
