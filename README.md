@@ -293,6 +293,9 @@ added a note on choosing quality over raw speed.
 
 summarized final improvements made to the repository.
 
+added a note on reviewing work before verification.
+
+
 
 
 
