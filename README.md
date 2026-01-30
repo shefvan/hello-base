@@ -319,6 +319,9 @@ added a note on key lessons learned during this task.
 
 documented the complete base guild learning experience.
 
+added a note on what worked well throughout the process.
+
+
 
 
 
