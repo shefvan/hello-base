@@ -280,6 +280,9 @@ added a note on reducing mistakes through repetition.
 
 summarized clarity gained in the commit workflow.
 
+added a note on maintaining focus during long tasks.
+
+
 
 
 
