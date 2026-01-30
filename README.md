@@ -261,6 +261,9 @@ documented a mid-phase reflection of the learning process.
 added a note on learning by doing instead of only reading.
 
 
+added a note on learning by doing instead of only reading.
+
+
 
 
 
