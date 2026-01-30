@@ -307,6 +307,10 @@ added a note on preparing for next base guild tasks.
 documented readiness to move beyond this milestone.
 
 
+added a note on performing a final review of all commits.
+
+
+
 
 
 
