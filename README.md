@@ -289,6 +289,9 @@ added a note on planning the final stretch of commits.
 
 documented readiness for final verification.
 
+added a note on choosing quality over raw speed.
+
+
 
 
 
