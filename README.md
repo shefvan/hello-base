@@ -278,6 +278,9 @@ documented the benefits of iteration and repetition.
 
 added a note on reducing mistakes through repetition.
 
+summarized clarity gained in the commit workflow.
+
+
 
 
 
