@@ -291,6 +291,9 @@ documented readiness for final verification.
 
 added a note on choosing quality over raw speed.
 
+summarized final improvements made to the repository.
+
+
 
 
 
