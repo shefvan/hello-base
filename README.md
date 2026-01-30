@@ -323,7 +323,11 @@ added a note on what worked well throughout the process.
 
 ----------
 
-summarized challenges faced and how they were handled.
+summarized challenges faced and how they were handled. 
+
+
+added a note on readiness for upcoming builder activities.
+
 
 
 
