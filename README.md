@@ -313,6 +313,9 @@ documented confirmation of reaching the required commit count.
 
 added a note on expectations from the verification step.
 
+summarized final adjustments before verification.
+
+
 
 
 
