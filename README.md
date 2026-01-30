@@ -258,6 +258,9 @@ added a reminder about staying consistent till task completion.
 
 documented a mid-phase reflection of the learning process.
 
+added a note on learning by doing instead of only reading.
+
+
 
 
 
