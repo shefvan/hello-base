@@ -300,7 +300,10 @@ documented how consistency paid off over time.
 
 added a note on finishing tasks with discipline.
 
-summarized overall learning from the commit journey.
+summarized overall learning from the commit journey.  
+
+added a note on preparing for next base guild tasks.
+
 
 
 
