@@ -265,6 +265,9 @@ added a note on learning by doing instead of only reading.
 
 documented the problem-solving approach used during this task.
 
+added a note on retry strategies when verification fails.
+
+
 
 
 
