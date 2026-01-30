@@ -298,6 +298,10 @@ added a note on reviewing work before verification.
 documented how consistency paid off over time.
 
 
+added a note on finishing tasks with discipline.
+
+
+
 
 
 
