@@ -270,6 +270,12 @@ added a note on retry strategies when verification fails.
 summarized lessons learned from multiple retry attempts.
 
 
+-------
+
+added a note on resilience while facing repeated issues.
+
+
+
 
 
 
