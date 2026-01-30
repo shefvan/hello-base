@@ -295,6 +295,9 @@ summarized final improvements made to the repository.
 
 added a note on reviewing work before verification.
 
+documented how consistency paid off over time.
+
+
 
 
 
