@@ -300,6 +300,9 @@ documented how consistency paid off over time.
 
 added a note on finishing tasks with discipline.
 
+summarized overall learning from the commit journey.
+
+
 
 
 
