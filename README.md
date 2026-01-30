@@ -315,7 +315,10 @@ added a note on expectations from the verification step.
 
 summarized final adjustments before verification. 
 
-added a note on key lessons learned during this task.
+added a note on key lessons learned during this task.  
+
+documented the complete base guild learning experience.
+
 
 
 
